@@ -14,17 +14,16 @@ The dataset contains the following key columns:
 - **Month**: Month of the posting (January)
 
 ## 🔍 Objectives
-- Analyze the distribution of job titles and locations
+- Formatting Data in Excel
+- Using functions and Formulas to analyze data and save time
+- -Analyze the distribution of job titles and locations
 - Examine hiring rates across different months
-- Identify how often “Easy Apply” options are used
 - Determine which cities have the highest number of postings
 
 ## 🛠️ Technologies Used
-- Python
-- Pandas
-- Matplotlib / Seaborn
-- Jupyter Notebook
-
+- Theoretical Concepts
+- Excel
+- 
 ## 📈 Future Improvements
 - Add visualizations for monthly hiring trends
 - Include job descriptions and NLP analysis
